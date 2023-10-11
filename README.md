@@ -1,9 +1,9 @@
 ### Hi there 👋, my name is Abdelbaki
-#### I am electronics engineering student and machine learning enthusiast !
-Oh, you just came ! make ur self at home :3, have a look around my projects and don't forget to drop a star :star:
+#### Majoring electronics engineering 🔥
+Oh, you just came ! make ur self at home :3, have a look around my projects and don't forget to drop a :star:
 
-Skills: Python
-- 🔭 I’m currently developing my self in the machine Learning field
+Skills: Image and Signal processing / Natural language processing.
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdou1579)  
