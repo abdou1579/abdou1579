@@ -1,7 +1,7 @@
-### Hi there 👋, I am Baki,
-#### Research intern within the boost team - Inria de Saclay 🔥
+### Hi there 👋, am Baki,
+#### I am a research intern within the Boost team - Inria de Saclay 🔥
 
-Oh, you just came ! make ur self at home :3, have a look around my projects and don't forget to drop a :star:
+Make ur self at home :3, have a look around my projects and don't forget to drop a :star:
 Skills: Image and Signal processing / biomedical engineering.
 
 
